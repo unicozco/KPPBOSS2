@@ -310,7 +310,7 @@ body {
 
 /* horizontal slides banner */
 .slider-k1-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/k1banner.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/k1banner.jpeg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -332,15 +332,15 @@ body {
 }
 
 #section-1-banner-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/Banner-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/Banner-1.jpg");
 }
 
 #section-1-banner-2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/Banner-2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/Banner-2.jpg");
 }
 
 #section-1-banner-3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/Banner-3.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/Banner-3.jpg");
 }
 
 .horizontal-slider .k1-banner-text {
@@ -391,7 +391,7 @@ body {
 /* section-2 */
 
 .section-2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/joint-event.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/joint-event.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -588,7 +588,7 @@ body {
 
 .section-4 {
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/k1banner.jpeg"); */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/Join-us.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/Join-us.jpg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -650,7 +650,7 @@ body {
 /* .section-5 */
 
 .section-5 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/k1banner.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/k1banner.jpeg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -709,7 +709,7 @@ body {
 /* section-5 end */
 
 .k1-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/k1banner.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/k1banner.jpeg");
     height: 100%;
     width: 100%;
     background-position: center;
@@ -719,7 +719,7 @@ body {
 }
 
 .k1-banner-leader {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/happy-co-workers-close-window.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img 2/happy-co-workers-close-window.jpg");
     /* position: relative; */
     background-repeat: no-repeat;
     background-position: center;
