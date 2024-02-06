@@ -110,3 +110,29 @@ openBtn.addEventListener("click", (event) => {
 });
 
 // Ubed JS for Nav Toggle
+
+
+// leaders slider
+var swiper = new Swiper(".mySwiper-leader", {
+  slidesPerView: 1,
+  spaceBetween: 0,
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+  breakpoints: {
+    640: {
+      slidesPerView: 1,
+      spaceBetween: 0,
+    },
+    768: {
+      slidesPerView: 2,
+      spaceBetween: 0,
+    },
+    1024: {
+      slidesPerView: 4,
+      spaceBetween: 0,
+    },
+  },
+});
+
